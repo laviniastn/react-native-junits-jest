@@ -1,0 +1,397 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> renders correctly 1`] = `
+<View
+  accessibilityLabel="app-root"
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+  testID="app-root"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "borderBottomColor": "#F5FCFF",
+        "borderBottomWidth": 1,
+        "borderColor": "gray",
+        "borderRadius": 30,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "marginBottom": 20,
+        "width": "80%",
+      }
+    }
+  >
+    <TextInput
+      accessibilityLabel="username"
+      name="username"
+      onChangeText={[Function]}
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "borderBottomColor": "#F5FCFF",
+        "borderBottomWidth": 1,
+        "borderColor": "gray",
+        "borderRadius": 30,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "marginBottom": 20,
+        "width": "80%",
+      }
+    }
+  >
+    <TextInput
+      accessibilityLabel="password"
+      name="password"
+      onChangeText={[Function]}
+      secureTextEntry={true}
+    />
+  </View>
+  <Text
+    accessibilityLabel="loginstatus"
+  >
+    fail
+  </Text>
+  <View
+    accessibilityLabel="login"
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#00b5ec",
+        "borderRadius": 30,
+        "flexDirection": "row",
+        "height": 45,
+        "justifyContent": "center",
+        "marginBottom": 20,
+        "width": 250,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+        }
+      }
+    >
+      Login
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`App Component App renders correctly 1`] = `
+<View
+  accessibilityLabel="app-root"
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+  testID="app-root"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "borderBottomColor": "#F5FCFF",
+        "borderBottomWidth": 1,
+        "borderColor": "gray",
+        "borderRadius": 30,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "marginBottom": 20,
+        "width": "80%",
+      }
+    }
+  >
+    <TextInput
+      accessibilityLabel="username"
+      name="username"
+      onChangeText={[Function]}
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "borderBottomColor": "#F5FCFF",
+        "borderBottomWidth": 1,
+        "borderColor": "gray",
+        "borderRadius": 30,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "marginBottom": 20,
+        "width": "80%",
+      }
+    }
+  >
+    <TextInput
+      accessibilityLabel="password"
+      name="password"
+      onChangeText={[Function]}
+      secureTextEntry={true}
+    />
+  </View>
+  <Text
+    accessibilityLabel="loginstatus"
+  >
+    fail
+  </Text>
+  <View
+    accessibilityLabel="login"
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#00b5ec",
+        "borderRadius": 30,
+        "flexDirection": "row",
+        "height": 45,
+        "justifyContent": "center",
+        "marginBottom": 20,
+        "width": 250,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+        }
+      }
+    >
+      Login
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`App Component renders correctly 1`] = `
+<View
+  accessibilityLabel="app-root"
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+  testID="app-root"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "borderBottomColor": "#F5FCFF",
+        "borderBottomWidth": 1,
+        "borderColor": "gray",
+        "borderRadius": 30,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "marginBottom": 20,
+        "width": "80%",
+      }
+    }
+  >
+    <TextInput
+      accessibilityLabel="username"
+      name="username"
+      onChangeText={[Function]}
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "borderBottomColor": "#F5FCFF",
+        "borderBottomWidth": 1,
+        "borderColor": "gray",
+        "borderRadius": 30,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "marginBottom": 20,
+        "width": "80%",
+      }
+    }
+  >
+    <TextInput
+      accessibilityLabel="password"
+      name="password"
+      onChangeText={[Function]}
+      secureTextEntry={true}
+    />
+  </View>
+  <Text
+    accessibilityLabel="loginstatus"
+  >
+    fail
+  </Text>
+  <View
+    accessibilityLabel="login"
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#00b5ec",
+        "borderRadius": 30,
+        "flexDirection": "row",
+        "height": 45,
+        "justifyContent": "center",
+        "marginBottom": 20,
+        "width": 250,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+        }
+      }
+    >
+      Login
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`renders correctly 1`] = `
+<View
+  accessibilityLabel="app-root"
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+  testID="app-root"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "borderBottomColor": "#F5FCFF",
+        "borderBottomWidth": 1,
+        "borderColor": "gray",
+        "borderRadius": 30,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "marginBottom": 20,
+        "width": "80%",
+      }
+    }
+  >
+    <TextInput
+      accessibilityLabel="username"
+      name="username"
+      onChangeText={[Function]}
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "borderBottomColor": "#F5FCFF",
+        "borderBottomWidth": 1,
+        "borderColor": "gray",
+        "borderRadius": 30,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "marginBottom": 20,
+        "width": "80%",
+      }
+    }
+  >
+    <TextInput
+      accessibilityLabel="password"
+      name="password"
+      onChangeText={[Function]}
+      secureTextEntry={true}
+    />
+  </View>
+  <Text
+    accessibilityLabel="loginstatus"
+  >
+    fail
+  </Text>
+  <View
+    accessibilityLabel="login"
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#00b5ec",
+        "borderRadius": 30,
+        "flexDirection": "row",
+        "height": 45,
+        "justifyContent": "center",
+        "marginBottom": 20,
+        "width": 250,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+        }
+      }
+    >
+      Login
+    </Text>
+  </View>
+</View>
+`;
